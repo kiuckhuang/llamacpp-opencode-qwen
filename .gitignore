@@ -1,0 +1,14 @@
+# Downloaded binaries
+llama_bin/
+tests/
+
+# Downloaded models
+*.gguf
+models/
+
+# Downloads folder
+downloads/
+
+# OS files
+.DS_Store
+Thumbs.db
