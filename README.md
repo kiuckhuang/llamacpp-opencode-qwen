@@ -23,7 +23,7 @@ Open **Git Bash as Administrator** (right-click → Run as administrator) and ru
 ### 1. Clone and setup
 
 ```bash
-git clone https://github.com/<username>/llamacpp-opencode-qwen.git
+git clone https://github.com/kiuckhuang/llamacpp-opencode-qwen.git
 cd llamacpp-opencode-qwen
 bash setup.sh
 ```
